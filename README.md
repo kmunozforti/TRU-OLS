@@ -6,7 +6,7 @@ been updated to fix small bugs.
 Please note that the R implementation was AI
 generated using ChatGPT-5.6 Sol.  We are providing it for ease of use due to requests
 but with very minimal testing. 
-If you have any bugs, please send them to ryan.kmet@denovoresearch.org, though
+If you have any bugs, please raise and issue or send them to ryan.kmet@denovoresearch.org, though
 we cannot promise that we will resolve them.
 
 `mixmat` is detectors by endmembers. Event and unstained-control matrices are
